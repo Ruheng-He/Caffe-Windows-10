@@ -1,6 +1,6 @@
 # GitHub link
 
-https://github.com/Ruheng-He/Caffe-Windows-10
+https://github.com/Ruheng-He/Caffe_Windows_10
 
 # 环境
 
